@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Shashank Uttrani"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/biopic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IIT Mandi student, studying AI, cognitive science and cybersecurity"
   location         : "Mandi, HP(India)"
   email            : 
